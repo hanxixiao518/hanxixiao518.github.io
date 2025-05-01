@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hanxi Xiao</title>
-    <link>https://hanxi.org/</link>
+    <link>https://hanxixiao518.github.io/</link>
     <description>Recent content on Hanxi Xiao</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hanxi.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hanxixiao518.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://hanxi.org/about/</link>
+      <link>https://hanxixiao518.github.io/about/</link>
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://hanxi.org/about/</guid>
+      <guid>https://hanxixiao518.github.io/about/</guid>
       <description>&lt;p&gt;Hi! I&amp;rsquo;m &lt;strong&gt;Hanxi Xiao&lt;/strong&gt;, currently pursuing a Master of Engineering in Financial Engineering at &lt;strong&gt;Cornell University&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;I hold a BBA in Quantitative Finance from &lt;strong&gt;The Chinese University of Hong Kong, Shenzhen&lt;/strong&gt;, where I graduated with First Class Honors and received distinctions including the &lt;strong&gt;Bowen Scholarship&lt;/strong&gt;, &lt;strong&gt;Academic Excellence&lt;/strong&gt;, and &lt;strong&gt;Excellent Student Leader&lt;/strong&gt; awards.&lt;/p&gt;
 &lt;p&gt;My academic interests lie at the intersection of &lt;strong&gt;optimization&lt;/strong&gt;, &lt;strong&gt;machine learning&lt;/strong&gt;, and &lt;strong&gt;quantitative trading&lt;/strong&gt;. I’m passionate about building robust financial models and applying data-driven methods to solve complex problems.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Beyond the Code</title>
-      <link>https://hanxi.org/misc/</link>
+      <link>https://hanxixiao518.github.io/misc/</link>
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://hanxi.org/misc/</guid>
+      <guid>https://hanxixiao518.github.io/misc/</guid>
       <description>&lt;h3 id=&#34;-music--leadership&#34;&gt;🎵 Music &amp;amp; Leadership&lt;/h3&gt;
 &lt;p&gt;As &lt;strong&gt;Vice President and Lead Singer&lt;/strong&gt; of the CUHK(SZ) Music Union and Chorus, I led a team of 50+ students and organized 20+ musical events with 500+ attendees. I’ve performed at school anniversary concerts, a cappella groups, and more.&lt;/p&gt;
 &lt;h3 id=&#34;-interests&#34;&gt;✍️ Interests&lt;/h3&gt;
@@ -36,9 +36,9 @@
     </item>
     <item>
       <title>Projects</title>
-      <link>https://hanxi.org/projects/</link>
+      <link>https://hanxixiao518.github.io/projects/</link>
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://hanxi.org/projects/</guid>
+      <guid>https://hanxixiao518.github.io/projects/</guid>
       <description>&lt;h3 id=&#34;-csi-500-index-enhancement-strategy&#34;&gt;📈 CSI 500 Index Enhancement Strategy&lt;/h3&gt;
 &lt;p&gt;Developed a multi-factor selection model and mean-variance optimizer. Backtested on CSI 500 constituents, achieving &lt;strong&gt;15.66% annualized return&lt;/strong&gt;, outperforming the index by &lt;strong&gt;13.55%&lt;/strong&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;-technical-timing-strategy&#34;&gt;🔄 Technical Timing Strategy&lt;/h3&gt;
